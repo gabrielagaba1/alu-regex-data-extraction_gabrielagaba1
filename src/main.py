@@ -1,5 +1,10 @@
+import os
 import re
 import json
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_FILE = os.path.join(BASE_DIR, "..", "input", "raw-text.txt")
+OUTPUT_FILE = os.path.join(BASE_DIR, "..", "output", "sample-output.json")
 
 def get_emails(document_text):
     all_emails = re.findall(r"[\w\.-]+@[\w\.-]+\.\w+", document_text)
@@ -37,7 +42,7 @@ def check_for_threats(document_text):
     return bool(re.search(r"<script|drop table", document_text, re.IGNORECASE))
 
 def main():
-    with open("../input/raw-text.txt", "r") as text_file:
+    with open(INPUT_FILE, "r", encoding="utf-8") as text_file:
         document_text = text_file.read()
 
     email_data = get_emails(document_text)
@@ -57,7 +62,7 @@ def main():
         "security_threat_detected": threat_detected
     }
 
-    with open("../output/sample-output.json", "w") as output_file:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as output_file:
         json.dump(final_output, output_file, indent=4)
 
     print("Data extraction complete! Results saved in output/sample-output.json")
