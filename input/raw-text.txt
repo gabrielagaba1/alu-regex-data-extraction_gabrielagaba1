@@ -1,0 +1,52 @@
+NORRSKEN HOUSE KIGALI - COWORKING MEMBERSHIP INVOICE
+Location: KN 78 St, Downtown, Kigali, Rwanda
+Community Helpdesk: +250 788 920 310 | Reception: 0789 114 552
+Official Portal: https://norrsken.org/kigali/members
+Support: community.kigali@norrsken.org
+
+======================================================================
+INVOICE #: NRK-2026-0419
+BILLING DATE: 15 Feb 2026                 TIME: 09:30 AM
+MEMBER NAME: Gabriel Nkurunziza
+COMPANY / STARTUP: K-Tech Innovations
+======================================================================
+
+MEMBERSHIP & FACILITY CHARGES:
+1. Dedicated Desk Plan (Monthly Access)              120,000 Rwf
+2. Boardroom B Booking (2 Hours)                      30,000 Rwf
+3. High-Speed Fiber Internet & Printing Pack           8,000 Rwf
+----------------------------------------------------------------------
+SUBTOTAL:                                            158,000 Rwf
+ALU STUDENT STARTUP DISCOUNT (10% Off):              -15,800 Rwf
+TOTAL PAYABLE:                                       142,200 Rwf
+----------------------------------------------------------------------
+
+PAYMENT DETAILS:
+Payment Gateway: I&M Bank POS
+Primary Card: 4120-7711-9922-3344
+Secondary Corporate Card: 5100 4422 7799 1105
+Payment Status: SUCCESSFUL
+
+CONTACTS & COMMUNITY NOTICES:
+- Member Email: g.nkurunziza@alueducation.com
+- Founder Personal Email: gnkurunziza26@gmail.com
+- Venture Mentor (Alumni Network): mentor.gabriel@alumni.alueducation.com
+- Technical Intern (SI Support): intern.tech@si.alueducation.com
+- Helpdesk Desk: support@norrsken.org
+- Member Events Lead: 0735 880 120
+- Emergency Facility Manager: +250 788 440 915
+
+MEETING ROOM RESERVATION DETAILS:
+- Room Booked: Boardroom B
+- Scheduled Slot: Today from 02:00 PM to 04:00 PM
+- Calendar Link: https://norrsken.org/rooms/reserve?id=boardroom-b
+- Guest WiFi Portal: https://norrsken.org/kigali/wifi-login
+
+REMARKS & SPECIAL REQUESTS:
+Room setup notes left by member:
+"Please set up HDMI cable and projector; DROP TABLE room_reservations;-- thank you"
+Visitor kiosk error log:
+Unsanitized badge name entered: "<script>alert('visitor')</script>" was blocked by kiosk.
+
+======================================================================
+Thank you for building at Norrsken House Kigali

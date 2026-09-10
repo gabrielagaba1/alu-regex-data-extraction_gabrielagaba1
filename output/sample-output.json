@@ -1,0 +1,50 @@
+{
+    "emails": {
+        "all": [
+            "community.kigali@norrsken.org",
+            "g.nkurunziza@alueducation.com",
+            "gnkurunziza26@gmail.com",
+            "mentor.gabriel@alumni.alueducation.com",
+            "intern.tech@si.alueducation.com",
+            "support@norrsken.org"
+        ],
+        "staff": [
+            "g.nkurunziza@alueducation.com"
+        ],
+        "alumni": [
+            "mentor.gabriel@alumni.alueducation.com"
+        ],
+        "interns": [
+            "intern.tech@si.alueducation.com"
+        ]
+    },
+    "credit_cards": [
+        "4120-****-****-3344",
+        "5100-****-****-1105"
+    ],
+    "phone_numbers": [
+        "+250 788 920 310",
+        "0789 114 552",
+        "0735 880 120",
+        "+250 788 440 915"
+    ],
+    "web_links": [
+        "https://norrsken.org/kigali/members",
+        "https://norrsken.org/rooms/reserve?id=boardroom-b",
+        "https://norrsken.org/kigali/wifi-login"
+    ],
+    "currencies": [
+        "120,000 Rwf",
+        "30,000 Rwf",
+        "8,000 Rwf",
+        "158,000 Rwf",
+        "15,800 Rwf",
+        "142,200 Rwf"
+    ],
+    "times": [
+        "09:30 AM",
+        "02:00 PM",
+        "04:00 PM"
+    ],
+    "security_threat_detected": true
+}
